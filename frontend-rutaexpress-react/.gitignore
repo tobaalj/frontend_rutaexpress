@@ -1,0 +1,27 @@
+# dependencias
+node_modules
+
+# build
+dist
+dist-ssr
+
+# vite
+.vite
+
+# IDEs
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# sistema
+.DS_Store
+
+# variables/entornos locales con credenciales reales
+.env
+.env.local
+src/environment.local.ts
